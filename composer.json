@@ -1,0 +1,7 @@
+{
+    "name": "gsmlabs/Underscore.php",
+    "type": "library",
+    "autoload": {
+        "files": ["underscore.php"]
+    }
+}
